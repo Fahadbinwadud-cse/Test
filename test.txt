@@ -2,3 +2,4 @@ I'm a test file
 This is second line of test file.
 This is third line of test file.    
 logo alignment is centered
+Added text from feature1 branch
